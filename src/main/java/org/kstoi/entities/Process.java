@@ -49,6 +49,7 @@ public class Process implements Runnable{
     }
 
     public void start(){
+        sleep=false;
         state=state.RUNNING;
         System.out.println("state run name:"+name+" pid: "+pid);
         t= new Thread(this);
@@ -104,7 +105,8 @@ public class Process implements Runnable{
                 ", uid='" + uid + '\'' +
                 ", name='" + name + '\'' +
                 " total time -> "+this.counterLimit+
-                " remaining ->"+(this.counterLimit - this.counter)+
+                " remaining -> "+(this.counterLimit - this.counter)+
+                "priority -> "+this.getPriority()+
                 '}';
     }
 }
