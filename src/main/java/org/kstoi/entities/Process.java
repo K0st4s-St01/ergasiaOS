@@ -3,13 +3,7 @@ package org.kstoi.entities;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.SneakyThrows;
-import lombok.ToString;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.rmi.server.UID;
 import java.util.Random;
 @Setter
 @Getter
@@ -23,6 +17,7 @@ public class Process implements Runnable{
 
 
     private static Random rand;
+    public static Long sleepAmount=100L;
     private boolean exited =false;
     private boolean sleep=false;
 
@@ -85,7 +80,7 @@ public class Process implements Runnable{
     @Override
     public void run() {
         while(state == State.RUNNING) {
-            Thread.sleep(100);
+            Thread.sleep(sleepAmount);
             System.out.println(" running -> pid : "+pid+" user : "+uid+" name : " + name +" - "+ counter);
             counter++;
             if (counter >= counterLimit) {

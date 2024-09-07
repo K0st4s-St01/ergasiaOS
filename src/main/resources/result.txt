@@ -1,640 +1,559 @@
-current -> null
-current -> null
-current -> null
-current -> null
-current -> null
-current -> null
-current -> null
-current -> null
-current -> null
-current -> null
-[]
-[]
-[]
-[]
-current -> null
-state run name:javaProgramme pid: 1
- running -> pid : 1 user : hacker name : javaProgramme - 0
- running -> pid : 1 user : hacker name : javaProgramme - 1
- running -> pid : 1 user : hacker name : javaProgramme - 2
- running -> pid : 1 user : hacker name : javaProgramme - 3
- running -> pid : 1 user : hacker name : javaProgramme - 4
- running -> pid : 1 user : hacker name : javaProgramme - 5
- running -> pid : 1 user : hacker name : javaProgramme - 6
- running -> pid : 1 user : hacker name : javaProgramme - 7
- running -> pid : 1 user : hacker name : javaProgramme - 8
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 303priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 9
- running -> pid : 1 user : hacker name : javaProgramme - 10
- running -> pid : 1 user : hacker name : javaProgramme - 11
- running -> pid : 1 user : hacker name : javaProgramme - 12
- running -> pid : 1 user : hacker name : javaProgramme - 13
- running -> pid : 1 user : hacker name : javaProgramme - 14
- running -> pid : 1 user : hacker name : javaProgramme - 15
- running -> pid : 1 user : hacker name : javaProgramme - 16
- running -> pid : 1 user : hacker name : javaProgramme - 17
- running -> pid : 1 user : hacker name : javaProgramme - 18
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 293priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 19
- running -> pid : 1 user : hacker name : javaProgramme - 20
- running -> pid : 1 user : hacker name : javaProgramme - 21
- running -> pid : 1 user : hacker name : javaProgramme - 22
- running -> pid : 1 user : hacker name : javaProgramme - 23
- running -> pid : 1 user : hacker name : javaProgramme - 24
- running -> pid : 1 user : hacker name : javaProgramme - 25
- running -> pid : 1 user : hacker name : javaProgramme - 26
- running -> pid : 1 user : hacker name : javaProgramme - 27
- running -> pid : 1 user : hacker name : javaProgramme - 28
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 283priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 29
- running -> pid : 1 user : hacker name : javaProgramme - 30
- running -> pid : 1 user : hacker name : javaProgramme - 31
- running -> pid : 1 user : hacker name : javaProgramme - 32
- running -> pid : 1 user : hacker name : javaProgramme - 33
- running -> pid : 1 user : hacker name : javaProgramme - 34
- running -> pid : 1 user : hacker name : javaProgramme - 35
- running -> pid : 1 user : hacker name : javaProgramme - 36
- running -> pid : 1 user : hacker name : javaProgramme - 37
- running -> pid : 1 user : hacker name : javaProgramme - 38
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 273priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 39
- running -> pid : 1 user : hacker name : javaProgramme - 40
- running -> pid : 1 user : hacker name : javaProgramme - 41
- running -> pid : 1 user : hacker name : javaProgramme - 42
- running -> pid : 1 user : hacker name : javaProgramme - 43
- running -> pid : 1 user : hacker name : javaProgramme - 44
- running -> pid : 1 user : hacker name : javaProgramme - 45
- running -> pid : 1 user : hacker name : javaProgramme - 46
- running -> pid : 1 user : hacker name : javaProgramme - 47
- running -> pid : 1 user : hacker name : javaProgramme - 48
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 263priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 49
- running -> pid : 1 user : hacker name : javaProgramme - 50
- running -> pid : 1 user : hacker name : javaProgramme - 51
- running -> pid : 1 user : hacker name : javaProgramme - 52
- running -> pid : 1 user : hacker name : javaProgramme - 53
- running -> pid : 1 user : hacker name : javaProgramme - 54
- running -> pid : 1 user : hacker name : javaProgramme - 55
- running -> pid : 1 user : hacker name : javaProgramme - 56
- running -> pid : 1 user : hacker name : javaProgramme - 57
- running -> pid : 1 user : hacker name : javaProgramme - 58
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 253priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 59
- running -> pid : 1 user : hacker name : javaProgramme - 60
- running -> pid : 1 user : hacker name : javaProgramme - 61
- running -> pid : 1 user : hacker name : javaProgramme - 62
- running -> pid : 1 user : hacker name : javaProgramme - 63
- running -> pid : 1 user : hacker name : javaProgramme - 64
- running -> pid : 1 user : hacker name : javaProgramme - 65
- running -> pid : 1 user : hacker name : javaProgramme - 66
- running -> pid : 1 user : hacker name : javaProgramme - 67
- running -> pid : 1 user : hacker name : javaProgramme - 68
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 243priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 69
- running -> pid : 1 user : hacker name : javaProgramme - 70
- running -> pid : 1 user : hacker name : javaProgramme - 71
- running -> pid : 1 user : hacker name : javaProgramme - 72
- running -> pid : 1 user : hacker name : javaProgramme - 73
- running -> pid : 1 user : hacker name : javaProgramme - 74
- running -> pid : 1 user : hacker name : javaProgramme - 75
- running -> pid : 1 user : hacker name : javaProgramme - 76
- running -> pid : 1 user : hacker name : javaProgramme - 77
- running -> pid : 1 user : hacker name : javaProgramme - 78
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 233priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 79
- running -> pid : 1 user : hacker name : javaProgramme - 80
- running -> pid : 1 user : hacker name : javaProgramme - 81
- running -> pid : 1 user : hacker name : javaProgramme - 82
- running -> pid : 1 user : hacker name : javaProgramme - 83
-[]
-[]
-[]
-[]
- running -> pid : 1 user : hacker name : javaProgramme - 84
- running -> pid : 1 user : hacker name : javaProgramme - 85
- running -> pid : 1 user : hacker name : javaProgramme - 86
- running -> pid : 1 user : hacker name : javaProgramme - 87
- running -> pid : 1 user : hacker name : javaProgramme - 88
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 223priority -> 2}, assignedQuantum=60, timeStarted=1725621688783)
-sleep -> Process{pid=1, uid='hacker', name='javaProgramme' total time -> 312 remaining -> 223priority -> 2}
- running -> pid : 1 user : hacker name : javaProgramme - 89
-current -> null
-state run name:notepad pid: 2
- running -> pid : 2 user : kostas name : notepad - 0
- running -> pid : 2 user : kostas name : notepad - 1
- running -> pid : 2 user : kostas name : notepad - 2
- running -> pid : 2 user : kostas name : notepad - 3
- running -> pid : 2 user : kostas name : notepad - 4
- running -> pid : 2 user : kostas name : notepad - 5
- running -> pid : 2 user : kostas name : notepad - 6
- running -> pid : 2 user : kostas name : notepad - 7
- running -> pid : 2 user : kostas name : notepad - 8
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 121priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 9
- running -> pid : 2 user : kostas name : notepad - 10
- running -> pid : 2 user : kostas name : notepad - 11
- running -> pid : 2 user : kostas name : notepad - 12
- running -> pid : 2 user : kostas name : notepad - 13
- running -> pid : 2 user : kostas name : notepad - 14
- running -> pid : 2 user : kostas name : notepad - 15
- running -> pid : 2 user : kostas name : notepad - 16
- running -> pid : 2 user : kostas name : notepad - 17
- running -> pid : 2 user : kostas name : notepad - 18
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 111priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 19
- running -> pid : 2 user : kostas name : notepad - 20
- running -> pid : 2 user : kostas name : notepad - 21
- running -> pid : 2 user : kostas name : notepad - 22
- running -> pid : 2 user : kostas name : notepad - 23
- running -> pid : 2 user : kostas name : notepad - 24
- running -> pid : 2 user : kostas name : notepad - 25
- running -> pid : 2 user : kostas name : notepad - 26
- running -> pid : 2 user : kostas name : notepad - 27
- running -> pid : 2 user : kostas name : notepad - 28
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 101priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 29
- running -> pid : 2 user : kostas name : notepad - 30
- running -> pid : 2 user : kostas name : notepad - 31
- running -> pid : 2 user : kostas name : notepad - 32
- running -> pid : 2 user : kostas name : notepad - 33
- running -> pid : 2 user : kostas name : notepad - 34
- running -> pid : 2 user : kostas name : notepad - 35
- running -> pid : 2 user : kostas name : notepad - 36
- running -> pid : 2 user : kostas name : notepad - 37
- running -> pid : 2 user : kostas name : notepad - 38
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 91priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 39
- running -> pid : 2 user : kostas name : notepad - 40
- running -> pid : 2 user : kostas name : notepad - 41
- running -> pid : 2 user : kostas name : notepad - 42
- running -> pid : 2 user : kostas name : notepad - 43
- running -> pid : 2 user : kostas name : notepad - 44
- running -> pid : 2 user : kostas name : notepad - 45
- running -> pid : 2 user : kostas name : notepad - 46
- running -> pid : 2 user : kostas name : notepad - 47
- running -> pid : 2 user : kostas name : notepad - 48
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 81priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 49
- running -> pid : 2 user : kostas name : notepad - 50
- running -> pid : 2 user : kostas name : notepad - 51
- running -> pid : 2 user : kostas name : notepad - 52
- running -> pid : 2 user : kostas name : notepad - 53
- running -> pid : 2 user : kostas name : notepad - 54
- running -> pid : 2 user : kostas name : notepad - 55
- running -> pid : 2 user : kostas name : notepad - 56
- running -> pid : 2 user : kostas name : notepad - 57
- running -> pid : 2 user : kostas name : notepad - 58
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 71priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 59
- running -> pid : 2 user : kostas name : notepad - 60
- running -> pid : 2 user : kostas name : notepad - 61
- running -> pid : 2 user : kostas name : notepad - 62
- running -> pid : 2 user : kostas name : notepad - 63
- running -> pid : 2 user : kostas name : notepad - 64
- running -> pid : 2 user : kostas name : notepad - 65
- running -> pid : 2 user : kostas name : notepad - 66
- running -> pid : 2 user : kostas name : notepad - 67
- running -> pid : 2 user : kostas name : notepad - 68
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 61priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 69
- running -> pid : 2 user : kostas name : notepad - 70
- running -> pid : 2 user : kostas name : notepad - 71
- running -> pid : 2 user : kostas name : notepad - 72
- running -> pid : 2 user : kostas name : notepad - 73
- running -> pid : 2 user : kostas name : notepad - 74
- running -> pid : 2 user : kostas name : notepad - 75
- running -> pid : 2 user : kostas name : notepad - 76
- running -> pid : 2 user : kostas name : notepad - 77
- running -> pid : 2 user : kostas name : notepad - 78
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 51priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 79
- running -> pid : 2 user : kostas name : notepad - 80
- running -> pid : 2 user : kostas name : notepad - 81
- running -> pid : 2 user : kostas name : notepad - 82
- running -> pid : 2 user : kostas name : notepad - 83
- running -> pid : 2 user : kostas name : notepad - 84
- running -> pid : 2 user : kostas name : notepad - 85
- running -> pid : 2 user : kostas name : notepad - 86
- running -> pid : 2 user : kostas name : notepad - 87
- running -> pid : 2 user : kostas name : notepad - 88
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 41priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)
-sleep -> Process{pid=2, uid='kostas', name='notepad' total time -> 130 remaining -> 41priority -> 1}
- running -> pid : 2 user : kostas name : notepad - 89
-current -> null
-state run name:javaProgramme pid: 1
- running -> pid : 1 user : hacker name : javaProgramme - 0
- running -> pid : 1 user : hacker name : javaProgramme - 1
- running -> pid : 1 user : hacker name : javaProgramme - 2
- running -> pid : 1 user : hacker name : javaProgramme - 3
- running -> pid : 1 user : hacker name : javaProgramme - 4
- running -> pid : 1 user : hacker name : javaProgramme - 5
- running -> pid : 1 user : hacker name : javaProgramme - 6
- running -> pid : 1 user : hacker name : javaProgramme - 7
- running -> pid : 1 user : hacker name : javaProgramme - 8
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 213priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 9
-[MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 40 remaining -> 40priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)]
-[]
-[]
-[]
- running -> pid : 1 user : hacker name : javaProgramme - 10
- running -> pid : 1 user : hacker name : javaProgramme - 11
- running -> pid : 1 user : hacker name : javaProgramme - 12
- running -> pid : 1 user : hacker name : javaProgramme - 13
- running -> pid : 1 user : hacker name : javaProgramme - 14
- running -> pid : 1 user : hacker name : javaProgramme - 15
- running -> pid : 1 user : hacker name : javaProgramme - 16
- running -> pid : 1 user : hacker name : javaProgramme - 17
- running -> pid : 1 user : hacker name : javaProgramme - 18
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 203priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 19
- running -> pid : 1 user : hacker name : javaProgramme - 20
- running -> pid : 1 user : hacker name : javaProgramme - 21
- running -> pid : 1 user : hacker name : javaProgramme - 22
- running -> pid : 1 user : hacker name : javaProgramme - 23
- running -> pid : 1 user : hacker name : javaProgramme - 24
- running -> pid : 1 user : hacker name : javaProgramme - 25
- running -> pid : 1 user : hacker name : javaProgramme - 26
- running -> pid : 1 user : hacker name : javaProgramme - 27
- running -> pid : 1 user : hacker name : javaProgramme - 28
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 193priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 29
- running -> pid : 1 user : hacker name : javaProgramme - 30
- running -> pid : 1 user : hacker name : javaProgramme - 31
- running -> pid : 1 user : hacker name : javaProgramme - 32
- running -> pid : 1 user : hacker name : javaProgramme - 33
- running -> pid : 1 user : hacker name : javaProgramme - 34
- running -> pid : 1 user : hacker name : javaProgramme - 35
- running -> pid : 1 user : hacker name : javaProgramme - 36
- running -> pid : 1 user : hacker name : javaProgramme - 37
- running -> pid : 1 user : hacker name : javaProgramme - 38
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 183priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 39
- running -> pid : 1 user : hacker name : javaProgramme - 40
- running -> pid : 1 user : hacker name : javaProgramme - 41
- running -> pid : 1 user : hacker name : javaProgramme - 42
- running -> pid : 1 user : hacker name : javaProgramme - 43
- running -> pid : 1 user : hacker name : javaProgramme - 44
- running -> pid : 1 user : hacker name : javaProgramme - 45
- running -> pid : 1 user : hacker name : javaProgramme - 46
- running -> pid : 1 user : hacker name : javaProgramme - 47
- running -> pid : 1 user : hacker name : javaProgramme - 48
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 173priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 49
- running -> pid : 1 user : hacker name : javaProgramme - 50
- running -> pid : 1 user : hacker name : javaProgramme - 51
- running -> pid : 1 user : hacker name : javaProgramme - 52
- running -> pid : 1 user : hacker name : javaProgramme - 53
- running -> pid : 1 user : hacker name : javaProgramme - 54
- running -> pid : 1 user : hacker name : javaProgramme - 55
- running -> pid : 1 user : hacker name : javaProgramme - 56
- running -> pid : 1 user : hacker name : javaProgramme - 57
- running -> pid : 1 user : hacker name : javaProgramme - 58
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 163priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 59
- running -> pid : 1 user : hacker name : javaProgramme - 60
- running -> pid : 1 user : hacker name : javaProgramme - 61
- running -> pid : 1 user : hacker name : javaProgramme - 62
- running -> pid : 1 user : hacker name : javaProgramme - 63
- running -> pid : 1 user : hacker name : javaProgramme - 64
- running -> pid : 1 user : hacker name : javaProgramme - 65
- running -> pid : 1 user : hacker name : javaProgramme - 66
- running -> pid : 1 user : hacker name : javaProgramme - 67
- running -> pid : 1 user : hacker name : javaProgramme - 68
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 153priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 69
- running -> pid : 1 user : hacker name : javaProgramme - 70
- running -> pid : 1 user : hacker name : javaProgramme - 71
- running -> pid : 1 user : hacker name : javaProgramme - 72
- running -> pid : 1 user : hacker name : javaProgramme - 73
- running -> pid : 1 user : hacker name : javaProgramme - 74
- running -> pid : 1 user : hacker name : javaProgramme - 75
- running -> pid : 1 user : hacker name : javaProgramme - 76
- running -> pid : 1 user : hacker name : javaProgramme - 77
- running -> pid : 1 user : hacker name : javaProgramme - 78
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 143priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 79
- running -> pid : 1 user : hacker name : javaProgramme - 80
- running -> pid : 1 user : hacker name : javaProgramme - 81
- running -> pid : 1 user : hacker name : javaProgramme - 82
- running -> pid : 1 user : hacker name : javaProgramme - 83
- running -> pid : 1 user : hacker name : javaProgramme - 84
- running -> pid : 1 user : hacker name : javaProgramme - 85
- running -> pid : 1 user : hacker name : javaProgramme - 86
- running -> pid : 1 user : hacker name : javaProgramme - 87
- running -> pid : 1 user : hacker name : javaProgramme - 88
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 133priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 89
- running -> pid : 1 user : hacker name : javaProgramme - 90
- running -> pid : 1 user : hacker name : javaProgramme - 91
- running -> pid : 1 user : hacker name : javaProgramme - 92
- running -> pid : 1 user : hacker name : javaProgramme - 93
- running -> pid : 1 user : hacker name : javaProgramme - 94
- running -> pid : 1 user : hacker name : javaProgramme - 95
- running -> pid : 1 user : hacker name : javaProgramme - 96
- running -> pid : 1 user : hacker name : javaProgramme - 97
- running -> pid : 1 user : hacker name : javaProgramme - 98
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 123priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 99
- running -> pid : 1 user : hacker name : javaProgramme - 100
- running -> pid : 1 user : hacker name : javaProgramme - 101
- running -> pid : 1 user : hacker name : javaProgramme - 102
- running -> pid : 1 user : hacker name : javaProgramme - 103
- running -> pid : 1 user : hacker name : javaProgramme - 104
- running -> pid : 1 user : hacker name : javaProgramme - 105
- running -> pid : 1 user : hacker name : javaProgramme - 106
- running -> pid : 1 user : hacker name : javaProgramme - 107
- running -> pid : 1 user : hacker name : javaProgramme - 108
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 113priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 109
- running -> pid : 1 user : hacker name : javaProgramme - 110
- running -> pid : 1 user : hacker name : javaProgramme - 111
- running -> pid : 1 user : hacker name : javaProgramme - 112
- running -> pid : 1 user : hacker name : javaProgramme - 113
- running -> pid : 1 user : hacker name : javaProgramme - 114
-[MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 40 remaining -> 40priority -> 1}, assignedQuantum=80, timeStarted=1725621697862)]
-[]
-[MultipleQueues.ProcessWrapper(process=Process{pid=3, uid='anonymous', name='game' total time -> 693 remaining -> 693priority -> 3}, assignedQuantum=null, timeStarted=1725621710523)]
-[]
- running -> pid : 1 user : hacker name : javaProgramme - 115
- running -> pid : 1 user : hacker name : javaProgramme - 116
- running -> pid : 1 user : hacker name : javaProgramme - 117
- running -> pid : 1 user : hacker name : javaProgramme - 118
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 103priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 119
- running -> pid : 1 user : hacker name : javaProgramme - 120
- running -> pid : 1 user : hacker name : javaProgramme - 121
- running -> pid : 1 user : hacker name : javaProgramme - 122
- running -> pid : 1 user : hacker name : javaProgramme - 123
- running -> pid : 1 user : hacker name : javaProgramme - 124
- running -> pid : 1 user : hacker name : javaProgramme - 125
- running -> pid : 1 user : hacker name : javaProgramme - 126
- running -> pid : 1 user : hacker name : javaProgramme - 127
- running -> pid : 1 user : hacker name : javaProgramme - 128
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 93priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 129
- running -> pid : 1 user : hacker name : javaProgramme - 130
- running -> pid : 1 user : hacker name : javaProgramme - 131
- running -> pid : 1 user : hacker name : javaProgramme - 132
- running -> pid : 1 user : hacker name : javaProgramme - 133
- running -> pid : 1 user : hacker name : javaProgramme - 134
- running -> pid : 1 user : hacker name : javaProgramme - 135
- running -> pid : 1 user : hacker name : javaProgramme - 136
- running -> pid : 1 user : hacker name : javaProgramme - 137
- running -> pid : 1 user : hacker name : javaProgramme - 138
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 83priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 139
- running -> pid : 1 user : hacker name : javaProgramme - 140
- running -> pid : 1 user : hacker name : javaProgramme - 141
- running -> pid : 1 user : hacker name : javaProgramme - 142
- running -> pid : 1 user : hacker name : javaProgramme - 143
- running -> pid : 1 user : hacker name : javaProgramme - 144
- running -> pid : 1 user : hacker name : javaProgramme - 145
- running -> pid : 1 user : hacker name : javaProgramme - 146
- running -> pid : 1 user : hacker name : javaProgramme - 147
- running -> pid : 1 user : hacker name : javaProgramme - 148
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 73priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 149
- running -> pid : 1 user : hacker name : javaProgramme - 150
- running -> pid : 1 user : hacker name : javaProgramme - 151
- running -> pid : 1 user : hacker name : javaProgramme - 152
- running -> pid : 1 user : hacker name : javaProgramme - 153
- running -> pid : 1 user : hacker name : javaProgramme - 154
- running -> pid : 1 user : hacker name : javaProgramme - 155
- running -> pid : 1 user : hacker name : javaProgramme - 156
- running -> pid : 1 user : hacker name : javaProgramme - 157
- running -> pid : 1 user : hacker name : javaProgramme - 158
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 63priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 159
- running -> pid : 1 user : hacker name : javaProgramme - 160
- running -> pid : 1 user : hacker name : javaProgramme - 161
- running -> pid : 1 user : hacker name : javaProgramme - 162
- running -> pid : 1 user : hacker name : javaProgramme - 163
- running -> pid : 1 user : hacker name : javaProgramme - 164
- running -> pid : 1 user : hacker name : javaProgramme - 165
- running -> pid : 1 user : hacker name : javaProgramme - 166
- running -> pid : 1 user : hacker name : javaProgramme - 167
- running -> pid : 1 user : hacker name : javaProgramme - 168
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 53priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)
-sleep -> Process{pid=1, uid='hacker', name='javaProgramme' total time -> 222 remaining -> 53priority -> 2}
- running -> pid : 1 user : hacker name : javaProgramme - 169
-current -> null
-state run name:notepad pid: 2
- running -> pid : 2 user : kostas name : notepad - 0
- running -> pid : 2 user : kostas name : notepad - 1
- running -> pid : 2 user : kostas name : notepad - 2
- running -> pid : 2 user : kostas name : notepad - 3
- running -> pid : 2 user : kostas name : notepad - 4
- running -> pid : 2 user : kostas name : notepad - 5
- running -> pid : 2 user : kostas name : notepad - 6
- running -> pid : 2 user : kostas name : notepad - 7
- running -> pid : 2 user : kostas name : notepad - 8
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 40 remaining -> 31priority -> 1}, assignedQuantum=160, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 9
- running -> pid : 2 user : kostas name : notepad - 10
- running -> pid : 2 user : kostas name : notepad - 11
- running -> pid : 2 user : kostas name : notepad - 12
- running -> pid : 2 user : kostas name : notepad - 13
- running -> pid : 2 user : kostas name : notepad - 14
- running -> pid : 2 user : kostas name : notepad - 15
- running -> pid : 2 user : kostas name : notepad - 16
- running -> pid : 2 user : kostas name : notepad - 17
- running -> pid : 2 user : kostas name : notepad - 18
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 40 remaining -> 21priority -> 1}, assignedQuantum=160, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 19
- running -> pid : 2 user : kostas name : notepad - 20
- running -> pid : 2 user : kostas name : notepad - 21
- running -> pid : 2 user : kostas name : notepad - 22
- running -> pid : 2 user : kostas name : notepad - 23
- running -> pid : 2 user : kostas name : notepad - 24
- running -> pid : 2 user : kostas name : notepad - 25
- running -> pid : 2 user : kostas name : notepad - 26
- running -> pid : 2 user : kostas name : notepad - 27
- running -> pid : 2 user : kostas name : notepad - 28
-[MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 714priority -> 1}, assignedQuantum=null, timeStarted=1725621721026), MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 52 remaining -> 52priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)]
-[]
-[MultipleQueues.ProcessWrapper(process=Process{pid=3, uid='anonymous', name='game' total time -> 693 remaining -> 693priority -> 3}, assignedQuantum=null, timeStarted=1725621710523)]
-[]
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 40 remaining -> 11priority -> 1}, assignedQuantum=160, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 29
- running -> pid : 2 user : kostas name : notepad - 30
- running -> pid : 2 user : kostas name : notepad - 31
- running -> pid : 2 user : kostas name : notepad - 32
- running -> pid : 2 user : kostas name : notepad - 33
- running -> pid : 2 user : kostas name : notepad - 34
- running -> pid : 2 user : kostas name : notepad - 35
- running -> pid : 2 user : kostas name : notepad - 36
- running -> pid : 2 user : kostas name : notepad - 37
- running -> pid : 2 user : kostas name : notepad - 38
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=2, uid='kostas', name='notepad' total time -> 40 remaining -> 1priority -> 1}, assignedQuantum=160, timeStarted=1725621697862)
- running -> pid : 2 user : kostas name : notepad - 39
-exit name:notepad pid: 2
-current -> null
-state run name:terminal pid: 4
- running -> pid : 4 user : anonymous name : terminal - 0
- running -> pid : 4 user : anonymous name : terminal - 1
- running -> pid : 4 user : anonymous name : terminal - 2
- running -> pid : 4 user : anonymous name : terminal - 3
- running -> pid : 4 user : anonymous name : terminal - 4
- running -> pid : 4 user : anonymous name : terminal - 5
- running -> pid : 4 user : anonymous name : terminal - 6
- running -> pid : 4 user : anonymous name : terminal - 7
- running -> pid : 4 user : anonymous name : terminal - 8
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 705priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
- running -> pid : 4 user : anonymous name : terminal - 9
- running -> pid : 4 user : anonymous name : terminal - 10
- running -> pid : 4 user : anonymous name : terminal - 11
- running -> pid : 4 user : anonymous name : terminal - 12
- running -> pid : 4 user : anonymous name : terminal - 13
- running -> pid : 4 user : anonymous name : terminal - 14
- running -> pid : 4 user : anonymous name : terminal - 15
- running -> pid : 4 user : anonymous name : terminal - 16
- running -> pid : 4 user : anonymous name : terminal - 17
- running -> pid : 4 user : anonymous name : terminal - 18
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 695priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
- running -> pid : 4 user : anonymous name : terminal - 19
- running -> pid : 4 user : anonymous name : terminal - 20
- running -> pid : 4 user : anonymous name : terminal - 21
- running -> pid : 4 user : anonymous name : terminal - 22
- running -> pid : 4 user : anonymous name : terminal - 23
- running -> pid : 4 user : anonymous name : terminal - 24
- running -> pid : 4 user : anonymous name : terminal - 25
- running -> pid : 4 user : anonymous name : terminal - 26
- running -> pid : 4 user : anonymous name : terminal - 27
- running -> pid : 4 user : anonymous name : terminal - 28
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 685priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
- running -> pid : 4 user : anonymous name : terminal - 29
- running -> pid : 4 user : anonymous name : terminal - 30
- running -> pid : 4 user : anonymous name : terminal - 31
- running -> pid : 4 user : anonymous name : terminal - 32
- running -> pid : 4 user : anonymous name : terminal - 33
- running -> pid : 4 user : anonymous name : terminal - 34
- running -> pid : 4 user : anonymous name : terminal - 35
- running -> pid : 4 user : anonymous name : terminal - 36
- running -> pid : 4 user : anonymous name : terminal - 37
- running -> pid : 4 user : anonymous name : terminal - 38
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 675priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
- running -> pid : 4 user : anonymous name : terminal - 39
- running -> pid : 4 user : anonymous name : terminal - 40
- running -> pid : 4 user : anonymous name : terminal - 41
- running -> pid : 4 user : anonymous name : terminal - 42
- running -> pid : 4 user : anonymous name : terminal - 43
- running -> pid : 4 user : anonymous name : terminal - 44
- running -> pid : 4 user : anonymous name : terminal - 45
- running -> pid : 4 user : anonymous name : terminal - 46
- running -> pid : 4 user : anonymous name : terminal - 47
- running -> pid : 4 user : anonymous name : terminal - 48
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 665priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
- running -> pid : 4 user : anonymous name : terminal - 49
- running -> pid : 4 user : anonymous name : terminal - 50
- running -> pid : 4 user : anonymous name : terminal - 51
- running -> pid : 4 user : anonymous name : terminal - 52
- running -> pid : 4 user : anonymous name : terminal - 53
- running -> pid : 4 user : anonymous name : terminal - 54
- running -> pid : 4 user : anonymous name : terminal - 55
- running -> pid : 4 user : anonymous name : terminal - 56
- running -> pid : 4 user : anonymous name : terminal - 57
- running -> pid : 4 user : anonymous name : terminal - 58
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 655priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
- running -> pid : 4 user : anonymous name : terminal - 59
- running -> pid : 4 user : anonymous name : terminal - 60
- running -> pid : 4 user : anonymous name : terminal - 61
- running -> pid : 4 user : anonymous name : terminal - 62
- running -> pid : 4 user : anonymous name : terminal - 63
- running -> pid : 4 user : anonymous name : terminal - 64
- running -> pid : 4 user : anonymous name : terminal - 65
- running -> pid : 4 user : anonymous name : terminal - 66
- running -> pid : 4 user : anonymous name : terminal - 67
- running -> pid : 4 user : anonymous name : terminal - 68
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 645priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
- running -> pid : 4 user : anonymous name : terminal - 69
- running -> pid : 4 user : anonymous name : terminal - 70
- running -> pid : 4 user : anonymous name : terminal - 71
- running -> pid : 4 user : anonymous name : terminal - 72
- running -> pid : 4 user : anonymous name : terminal - 73
- running -> pid : 4 user : anonymous name : terminal - 74
- running -> pid : 4 user : anonymous name : terminal - 75
- running -> pid : 4 user : anonymous name : terminal - 76
- running -> pid : 4 user : anonymous name : terminal - 77
- running -> pid : 4 user : anonymous name : terminal - 78
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 635priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
- running -> pid : 4 user : anonymous name : terminal - 79
- running -> pid : 4 user : anonymous name : terminal - 80
- running -> pid : 4 user : anonymous name : terminal - 81
- running -> pid : 4 user : anonymous name : terminal - 82
- running -> pid : 4 user : anonymous name : terminal - 83
- running -> pid : 4 user : anonymous name : terminal - 84
- running -> pid : 4 user : anonymous name : terminal - 85
- running -> pid : 4 user : anonymous name : terminal - 86
- running -> pid : 4 user : anonymous name : terminal - 87
-[MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 52 remaining -> 52priority -> 2}, assignedQuantum=160, timeStarted=1725621688783)]
-[]
-[MultipleQueues.ProcessWrapper(process=Process{pid=3, uid='anonymous', name='game' total time -> 693 remaining -> 693priority -> 3}, assignedQuantum=null, timeStarted=1725621710523), MultipleQueues.ProcessWrapper(process=Process{pid=5, uid='anonymous', name='javaProgramme' total time -> 952 remaining -> 952priority -> 3}, assignedQuantum=null, timeStarted=1725621730383)]
-[]
- running -> pid : 4 user : anonymous name : terminal - 88
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 625priority -> 1}, assignedQuantum=80, timeStarted=1725621721026)
-sleep -> Process{pid=4, uid='anonymous', name='terminal' total time -> 714 remaining -> 625priority -> 1}
- running -> pid : 4 user : anonymous name : terminal - 89
-current -> null
-state run name:javaProgramme pid: 1
- running -> pid : 1 user : hacker name : javaProgramme - 0
- running -> pid : 1 user : hacker name : javaProgramme - 1
- running -> pid : 1 user : hacker name : javaProgramme - 2
- running -> pid : 1 user : hacker name : javaProgramme - 3
- running -> pid : 1 user : hacker name : javaProgramme - 4
- running -> pid : 1 user : hacker name : javaProgramme - 5
- running -> pid : 1 user : hacker name : javaProgramme - 6
- running -> pid : 1 user : hacker name : javaProgramme - 7
- running -> pid : 1 user : hacker name : javaProgramme - 8
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 52 remaining -> 43priority -> 2}, assignedQuantum=240, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 9
- running -> pid : 1 user : hacker name : javaProgramme - 10
- running -> pid : 1 user : hacker name : javaProgramme - 11
- running -> pid : 1 user : hacker name : javaProgramme - 12
- running -> pid : 1 user : hacker name : javaProgramme - 13
- running -> pid : 1 user : hacker name : javaProgramme - 14
- running -> pid : 1 user : hacker name : javaProgramme - 15
- running -> pid : 1 user : hacker name : javaProgramme - 16
- running -> pid : 1 user : hacker name : javaProgramme - 17
- running -> pid : 1 user : hacker name : javaProgramme - 18
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 52 remaining -> 33priority -> 2}, assignedQuantum=240, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 19
- running -> pid : 1 user : hacker name : javaProgramme - 20
- running -> pid : 1 user : hacker name : javaProgramme - 21
- running -> pid : 1 user : hacker name : javaProgramme - 22
- running -> pid : 1 user : hacker name : javaProgramme - 23
- running -> pid : 1 user : hacker name : javaProgramme - 24
- running -> pid : 1 user : hacker name : javaProgramme - 25
- running -> pid : 1 user : hacker name : javaProgramme - 26
- running -> pid : 1 user : hacker name : javaProgramme - 27
- running -> pid : 1 user : hacker name : javaProgramme - 28
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 52 remaining -> 23priority -> 2}, assignedQuantum=240, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 29
- running -> pid : 1 user : hacker name : javaProgramme - 30
- running -> pid : 1 user : hacker name : javaProgramme - 31
- running -> pid : 1 user : hacker name : javaProgramme - 32
- running -> pid : 1 user : hacker name : javaProgramme - 33
- running -> pid : 1 user : hacker name : javaProgramme - 34
- running -> pid : 1 user : hacker name : javaProgramme - 35
- running -> pid : 1 user : hacker name : javaProgramme - 36
- running -> pid : 1 user : hacker name : javaProgramme - 37
- running -> pid : 1 user : hacker name : javaProgramme - 38
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 52 remaining -> 13priority -> 2}, assignedQuantum=240, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 39
- running -> pid : 1 user : hacker name : javaProgramme - 40
- running -> pid : 1 user : hacker name : javaProgramme - 41
- running -> pid : 1 user : hacker name : javaProgramme - 42
- running -> pid : 1 user : hacker name : javaProgramme - 43
- running -> pid : 1 user : hacker name : javaProgramme - 44
- running -> pid : 1 user : hacker name : javaProgramme - 45
- running -> pid : 1 user : hacker name : javaProgramme - 46
- running -> pid : 1 user : hacker name : javaProgramme - 47
- running -> pid : 1 user : hacker name : javaProgramme - 48
-current -> MultipleQueues.ProcessWrapper(process=Process{pid=1, uid='hacker', name='javaProgramme' total time -> 52 remaining -> 3priority -> 2}, assignedQuantum=240, timeStarted=1725621688783)
- running -> pid : 1 user : hacker name : javaProgramme - 49
- running -> pid : 1 user : hacker name : javaProgramme - 50
- running -> pid : 1 user : hacker name : javaProgramme - 51
-exit name:javaProgramme pid: 1
-current -> null
-state run name:terminal pid: 4
- running -> pid : 4 user : anonymous name : terminal - 0
+state run name:intellij pid: 0
+state run name:notepad pid: 0
+intellij 1
+notepad 1
+intellij 2
+notepad 2
+intellij 3
+notepad 3
+intellij 4
+notepad 4
+intellij 5
+notepad 5
+intellij 6
+notepad 6
+intellij 7
+notepad 7
+intellij 8
+notepad 8
+intellij 9
+notepad 9
+intellij 10
+notepad 10
+intellij 11
+notepad 11
+intellij 12
+notepad 12
+intellij 13
+notepad 13
+intellij 14
+notepad 14
+intellij 15
+notepad 15
+intellij 16
+notepad 16
+intellij 17
+notepad 17
+intellij 18
+notepad 18
+intellij 19
+notepad 19
+intellij 20
+notepad 20
+intellij 21
+notepad 21
+intellij 22
+notepad 22
+intellij 23
+notepad 23
+intellij 24
+notepad 24
+intellij 25
+notepad 25
+intellij 26
+notepad 26
+intellij 27
+notepad 27
+intellij 28
+notepad 28
+notepad 29
+intellij 29
+notepad 30
+intellij 30
+notepad 31
+intellij 31
+notepad 32
+intellij 32
+notepad 33
+intellij 33
+notepad 34
+intellij 34
+notepad 35
+intellij 35
+notepad 36
+intellij 36
+notepad 37
+intellij 37
+notepad 38
+intellij 38
+notepad 39
+intellij 39
+notepad 40
+intellij 40
+notepad 41
+intellij 41
+notepad 42
+intellij 42
+notepad 43
+intellij 43
+notepad 44
+intellij 44
+notepad 45
+intellij 45
+notepad 46
+intellij 46
+notepad 47
+intellij 47
+notepad 48
+intellij 48
+notepad 49
+intellij 49
+notepad 50
+intellij 50
+notepad 51
+intellij 51
+notepad 52
+intellij 52
+notepad 53
+intellij 53
+notepad 54
+intellij 54
+notepad 55
+intellij 55
+notepad 56
+intellij 56
+notepad 57
+intellij 57
+intellij 58
+notepad 58
+notepad 59
+intellij 59
+notepad 60
+intellij 60
+intellij 61
+notepad 61
+notepad 62
+intellij 62
+notepad 63
+intellij 63
+notepad 64
+intellij 64
+notepad 65
+intellij 65
+notepad 66
+intellij 66
+notepad 67
+intellij 67
+notepad 68
+intellij 68
+intellij 69
+notepad 69
+intellij 70
+notepad 70
+intellij 71
+notepad 71
+intellij 72
+notepad 72
+intellij 73
+notepad 73
+intellij 74
+notepad 74
+intellij 75
+notepad 75
+notepad 76
+intellij 76
+notepad 77
+intellij 77
+notepad 78
+intellij 78
+notepad 79
+intellij 79
+notepad 80
+intellij 80
+notepad 81
+intellij 81
+intellij 82
+notepad 82
+notepad 83
+intellij 83
+notepad 84
+intellij 84
+notepad 85
+intellij 85
+notepad 86
+intellij 86
+notepad 87
+intellij 87
+notepad 88
+intellij 88
+notepad 89
+intellij 89
+notepad 90
+intellij 90
+notepad 91
+intellij 91
+notepad 92
+intellij 92
+notepad 93
+intellij 93
+intellij 94
+notepad 94
+intellij 95
+notepad 95
+intellij 96
+notepad 96
+intellij 97
+notepad 97
+intellij 98
+notepad 98
+intellij 99
+notepad 99
+intellij 100
+notepad 100
+sleep -> ProcessEDF{Process{pid=0, uid='user', name='notepad' total time -> 164 remaining -> 64priority -> 1}period=800, deadline=800, executionTime=100}
+state run name:game pid: 0
+intellij 101
+game 1
+intellij 102
+game 2
+intellij 103
+game 3
+intellij 104
+game 4
+intellij 105
+game 5
+intellij 106
+game 6
+intellij 107
+game 7
+intellij 108
+game 8
+intellij 109
+game 9
+intellij 110
+game 10
+intellij 111
+game 11
+intellij 112
+game 12
+intellij 113
+game 13
+intellij 114
+game 14
+intellij 115
+game 15
+intellij 116
+game 16
+intellij 117
+game 17
+intellij 118
+game 18
+intellij 119
+game 19
+intellij 120
+game 20
+intellij 121
+game 21
+intellij 122
+game 22
+intellij 123
+game 23
+intellij 124
+game 24
+intellij 125
+game 25
+intellij 126
+game 26
+intellij 127
+game 27
+intellij 128
+game 28
+intellij 129
+game 29
+intellij 130
+game 30
+intellij 131
+game 31
+intellij 132
+game 32
+intellij 133
+game 33
+intellij 134
+game 34
+intellij 135
+game 35
+intellij 136
+game 36
+intellij 137
+game 37
+intellij 138
+game 38
+intellij 139
+game 39
+intellij 140
+game 40
+intellij 141
+game 41
+intellij 142
+game 42
+intellij 143
+game 43
+intellij 144
+game 44
+intellij 145
+game 45
+intellij 146
+game 46
+intellij 147
+game 47
+intellij 148
+game 48
+intellij 149
+game 49
+intellij 150
+game 50
+intellij 151
+game 51
+intellij 152
+game 52
+intellij 153
+game 53
+intellij 154
+game 54
+intellij 155
+game 55
+intellij 156
+game 56
+intellij 157
+game 57
+intellij 158
+game 58
+intellij 159
+game 59
+intellij 160
+game 60
+intellij 161
+game 61
+intellij 162
+game 62
+intellij 163
+game 63
+intellij 164
+game 64
+intellij 165
+game 65
+intellij 166
+game 66
+intellij 167
+game 67
+intellij 168
+game 68
+intellij 169
+game 69
+intellij 170
+game 70
+intellij 171
+game 71
+intellij 172
+game 72
+intellij 173
+game 73
+intellij 174
+game 74
+intellij 175
+game 75
+intellij 176
+game 76
+intellij 177
+game 77
+intellij 178
+game 78
+intellij 179
+game 79
+intellij 180
+game 80
+intellij 181
+game 81
+intellij 182
+game 82
+intellij 183
+game 83
+intellij 184
+game 84
+intellij 185
+game 85
+intellij 186
+game 86
+intellij 187
+game 87
+intellij 188
+game 88
+intellij 189
+game 89
+intellij 190
+game 90
+intellij 191
+game 91
+intellij 192
+game 92
+intellij 193
+game 93
+intellij 194
+game 94
+intellij 195
+game 95
+intellij 196
+game 96
+intellij 197
+game 97
+intellij 198
+game 98
+intellij 199
+game 99
+intellij 200
+sleep -> ProcessEDF{Process{pid=0, uid='user', name='intellij' total time -> 295 remaining -> 95priority -> 1}period=500, deadline=500, executionTime=200}
+state run name:intellij pid: 0
+game 100
+intellij 1
+game 101
+intellij 2
+game 102
+intellij 3
+game 103
+intellij 4
+game 104
+intellij 5
+game 105
+intellij 6
+game 106
+intellij 7
+game 107
+intellij 8
+game 108
+intellij 9
+game 109
+intellij 10
+game 110
+intellij 11
+game 111
+intellij 12
+game 112
+intellij 13
+game 113
+intellij 14
+game 114
+intellij 15
+game 115
+intellij 16
+game 116
+intellij 17
+game 117
+intellij 18
+game 118
+intellij 19
+game 119
+intellij 20
+game 120
+intellij 21
+game 121
+intellij 22
+game 122
+intellij 23
+game 123
+intellij 24
+game 124
+intellij 25
+game 125
+intellij 26
+game 126
+intellij 27
+game 127
+intellij 28
+game 128
+intellij 29
+game 129
+intellij 30
+game 130
+intellij 31
+game 131
+intellij 32
+game 132
+intellij 33
+game 133
+intellij 34
+game 134
+intellij 35
+game 135
+intellij 36
+game 136
+intellij 37
+game 137
+intellij 38
+game 138
+intellij 39
+game 139
+intellij 40
+game 140
+intellij 41
+game 141
+intellij 42
+game 142
+intellij 43
+game 143
+intellij 44
+game 144
+intellij 45
+game 145
+intellij 46
+game 146
+intellij 47
+game 147
+intellij 48
+game 148
+intellij 49
+game 149
+intellij 50
+game 150
+intellij 51
+game 151
+intellij 52
+game 152
+intellij 53
+game 153
+intellij 54
+game 154
+intellij 55
+game 155
+intellij 56
+game 156
+intellij 57
+game 157
+intellij 58
+game 158
+intellij 59
+game 159
+intellij 60
+game 160
+intellij 61
+game 161
+intellij 62
+game 162
+intellij 63
+game 163
+intellij 64
+game 164
+intellij 65
+game 165
+intellij 66
+game 166
+intellij 67
+game 167
+intellij 68
+game 168
+intellij 69
+game 169
+intellij 70
+game 170
+intellij 71
+game 171
+intellij 72
+game 172
+intellij 73
+game 173
+intellij 74
+game 174
+intellij 75
+game 175
+intellij 76
+game 176
+intellij 77
