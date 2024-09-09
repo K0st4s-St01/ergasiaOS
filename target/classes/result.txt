@@ -1,5 +1,2 @@
-Exception in thread "main" java.lang.RuntimeException: java.lang.NullPointerException: Cannot invoke "org.kstoi.scheduler2.EDFScheduler$ProcessEDF.isSleep()" because "cores[i]" is null
-	at org.kstoi.Main.main(Main.java:21)
-Caused by: java.lang.NullPointerException: Cannot invoke "org.kstoi.scheduler2.EDFScheduler$ProcessEDF.isSleep()" because "cores[i]" is null
-	at org.kstoi.scheduler2.EDFScheduler.schedule(EDFScheduler.java:37)
-	at org.kstoi.Main.main(Main.java:19)
+BankerAlgorythm.Request(process=1, request=[4, 3, 8])
+process 1 requests more resources than needed
