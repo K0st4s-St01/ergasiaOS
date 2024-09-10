@@ -1,2 +1,7 @@
-BankerAlgorythm.Request(process=1, request=[4, 3, 8])
-process 1 requests more resources than needed
+WSClock(clock=[Page(id=1, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974205)], clockPointer=0, tau=1000, size=5)
+WSClock(clock=[Page(id=1, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974205), Page(id=2, referenceBit=true, dirtyBit=true, lastUsedTime=1725962974250)], clockPointer=0, tau=1000, size=5)
+WSClock(clock=[Page(id=1, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974205), Page(id=2, referenceBit=true, dirtyBit=true, lastUsedTime=1725962974250), Page(id=3, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974250)], clockPointer=0, tau=1000, size=5)
+WSClock(clock=[Page(id=1, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974205), Page(id=2, referenceBit=true, dirtyBit=true, lastUsedTime=1725962974250), Page(id=3, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974250), Page(id=4, referenceBit=true, dirtyBit=true, lastUsedTime=1725962974250)], clockPointer=0, tau=1000, size=5)
+WSClock(clock=[Page(id=1, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974205), Page(id=2, referenceBit=true, dirtyBit=true, lastUsedTime=1725962974250), Page(id=3, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974250), Page(id=4, referenceBit=true, dirtyBit=true, lastUsedTime=1725962974250), Page(id=5, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974253)], clockPointer=0, tau=1000, size=5)
+replacing page 1
+WSClock(clock=[Page(id=5, referenceBit=true, dirtyBit=false, lastUsedTime=1725962974253), Page(id=2, referenceBit=false, dirtyBit=true, lastUsedTime=1725962974250), Page(id=3, referenceBit=false, dirtyBit=false, lastUsedTime=1725962974250), Page(id=4, referenceBit=false, dirtyBit=true, lastUsedTime=1725962974250), Page(id=5, referenceBit=false, dirtyBit=false, lastUsedTime=1725962974253)], clockPointer=1, tau=1000, size=5)
